@@ -1,0 +1,13 @@
+{
+	"name": "Xiro The Dev - Portfolio",
+	"short_name": "Xiro Portfolio",
+	"description": "Full Stack Developer & Discord Bot Creator Portfolio",
+	"start_url": "/",
+	"display": "standalone",
+	"background_color": "#000000",
+	"theme_color": "#8b5cf6",
+	"orientation": "portrait-primary",
+	"scope": "/",
+	"lang": "en",
+	"categories": ["productivity", "utilities"]
+}

@@ -8,7 +8,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { memo, useState } from "react";
 import { GitHubInfoBadge } from "./github-info-badge";
-import { LanguageBar } from "./language-bar.tsx";
+import { LanguageBar } from "./language-bar";
 import { Badge } from "./ui/badge";
 import { Button } from "./ui/button";
 import { Dialog, DialogContent, DialogTitle, DialogTrigger } from "./ui/dialog";
